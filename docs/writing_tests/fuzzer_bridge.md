@@ -258,6 +258,6 @@ builder.env_overrides = {
 
 ## Further Resources
 
-- [Blocktest Fuzzer Documentation](https://github.com/ethereum/blocktest-fuzzer)
+- [Blocktest Fuzzer Documentation](https://github.com/ethereum/go-ethereum)
 - [EEST Framework Documentation](../index.md)
 - [Ethereum Test Format Specifications](./reference_specification.md)
